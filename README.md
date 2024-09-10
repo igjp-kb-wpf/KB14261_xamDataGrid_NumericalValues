@@ -1,0 +1,2 @@
+# KB14261_xamDataGrid_NumericalValues
+ XamDataGrid - 数値入力時にキーボード操作による増減を無効化したい
